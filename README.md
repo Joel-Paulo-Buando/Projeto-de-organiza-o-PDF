@@ -3,7 +3,7 @@
 
 ## Objetivo do Projeto
 
-Com o objetivo de promover um ambiente mais organizado e eficiente, realizei o desevolvimento desse projeto, me comprometendo a entregar uma solução automatizada que facilite a gestão de arquivos PDF, reduzindo tarefas manuais e otimizando o tempo de quem utiliza a ferramenta. O projeto foi pensado para ser adaptável, confiável e útil em diferentes contextos e necessidades.
+Com o objetivo de promover um ambiente mais organizado e eficiente, real o desevolvimento desse projeto, me comprometendo a entregar uma solução automatizada que facilite a gestão de arquivos PDF, reduzindo tarefas manuais e otimizando o tempo de quem utiliza a ferramenta. O projeto foi pensado para ser adaptável, confiável e útil em diferentes contextos e necessidades.
 
 ## Exemplos de comportamentos que contribuem para o sucesso e qualidade do projeto incluem:
   
